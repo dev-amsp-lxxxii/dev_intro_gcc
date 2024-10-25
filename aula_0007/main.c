@@ -10,8 +10,11 @@
 int main()
 {
     char letra;
+
     printf("Digite uma letra: ");
+
     letra = getchar(); // ira pegar o caracter no buffer do teclado e armazenar
+
     printf("Caracter lido: %c", letra);
     return 0;
 }
