@@ -13,6 +13,9 @@ int main()
     int idade;
     float peso, altura;
 
+    // o campo sexo não imprime quando se aperta espaço ou enter, pois quando se usa as duas opções
+    // este vazio acaba sendo armazenado. Ex. 1 2 3 m, então tem de ser 1 2 3m
+    // caso coloque o campo sexo por último, mas se apertar enter antes de informar o caracter imprime vazio
     printf("Digite sexo(f, F, m ou M), idade, peso e altura:\n");
     scanf("%c%d%f%f", &sexo, &idade, &peso, &altura);
 

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730139773 source:/home/adelmo/dev_estudos/dev_intro_gcc/aua_0012/main.c
+	<stdio.h>
+	<stdlib.h>
+
