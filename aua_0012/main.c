@@ -1,5 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+/*
+    Aula: 0012
+    Tema: Problema ao ler caracter com a linguagem C
+    Link: https://www.youtube.com/watch?v=qZOZxLwnDaA&list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA&index=13
+    Data: 28.10.2024
+*/
 
 int main()
 {
